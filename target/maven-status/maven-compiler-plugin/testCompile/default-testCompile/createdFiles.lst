@@ -1,0 +1,6 @@
+RunnerClass\TestRunner.class
+Utilities\ReadConfig.class
+PageObjects\LoginPage.class
+StepDefinition\Steps.class
+PageObjects\RegisterationPage.class
+StepDefinition\BaseClass.class
